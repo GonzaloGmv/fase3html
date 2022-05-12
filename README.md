@@ -1,5 +1,4 @@
-# fase-3
-Enlace a la pagina web : [Fase 3](https://fase3html.gonzalogmv.repl.co)
+# fase 3
 
 Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase3html.git)
 
@@ -19,7 +18,6 @@ Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase3html.git)
 
 Para este trabajo, hemos seguido el modelo de las fases anteriores del mismo, con el objetivo de realizar una página web a partir del dataset escogido.
 
-<<<<<<< HEAD
 En el dataset "contactos.csv" almacenamos los datos privados de nuestros clientes, como el departamento al que pertenecen, el nombre y los apellidos, dirección e-Mail y el número de teléfono.
 
 La realización de la página web, ha sido llevada a cabo mediante el uso de diferentes gráficos, en específico gráficos de barras y sectores.
@@ -30,11 +28,8 @@ Basandonos en otras empresas del mismo servicio, hemos determinado que la relaci
 
 ## Gráficos
 
-Hemos realizado dos diagramas de sectores, "Regiones_Precio_bien.png" y "Marca_Media.png".
-Estos gráficos relacionan la región y el fabricante respectivamente, con el precio medio.
-
+Hemos realizado dos diagramas de sectores, "Regiones_Precio_bien.png" y "Marca_Media.png". Estos gráficos relacionan la región y el fabricante respectivamente, con el precio medio.
 
 PD: Nuestro dataset tenía algunos precios desorbitados, que se pueden observar en "Lista_Precios_Maximos_Marcas.PNG", y al realizar los gráficos salían distorsionados, véase "PRECIO_MAXIMO_MANUFACTURER.png", "Regiones_Precios.png" y "tarta_manufacturer.png"
-=======
+
 Para realizar los gráficos de barras hemos agrupado datos por regiones y por modelo, y hemos calculado el precio medio de cada uno
->>>>>>> origin/main
