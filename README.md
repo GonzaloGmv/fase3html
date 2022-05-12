@@ -18,5 +18,4 @@ Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase3html.git)
 Para este trabajo, hemos seguido el modelo de las fases anteriores del mismo, con el objetivo de realizar una página web a partir del dataset escogido. La realización de la página web, ha sido llevada acabo mediante el uso de diferentes gráficos, en específico gráficos de barras y sectores
 
 
-
 Para realizar los gráficos de barras hemos agrupado datos por regiones y por modelo, y hemos calculado el precio medio de cada uno
