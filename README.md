@@ -1,6 +1,6 @@
 # fase-3
-Enlace a la pagina web : [Fase 3](https://fase-3.gonzalogmv.repl.co)
-Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase-3.git)
+Enlace a la pagina web : [Fase 3](https://fase3html.gonzalogmv.repl.co)
+Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase3html.git)
 
 ### - Perfiles
 
